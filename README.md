@@ -1,6 +1,6 @@
 # Colheita-UrbanaG
 
-Colheita.html
+Colheita.UrbanaG
 Colheita Urbana Este é um projeto simples feito com HTML, CSS e JavaScript.
 
 Ele permite cadastrar produtos com informações como nome, preço original, preço com desconto, validade e quantidade. Depois, é possível ver a lista de produtos adicionados.
